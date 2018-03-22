@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand\obj\Debug\Diamand.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand\bin\Debug\Diamand.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand\bin\Debug\Diamand.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand\bin\Debug\Diamand.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand\obj\Debug\Diamand.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand\obj\Debug\Diamand.pdb

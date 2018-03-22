@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Toy Shop\bin\Debug\Toy Shop.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Toy Shop\bin\Debug\Toy Shop.exe
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Toy Shop\bin\Debug\Toy Shop.pdb
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Toy Shop\obj\Debug\Toy Shop.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Toy Shop\obj\Debug\Toy Shop.exe
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Toy Shop\obj\Debug\Toy Shop.pdb

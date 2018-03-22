@@ -1,0 +1,5 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand 2\bin\Debug\Diamand 2.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand 2\bin\Debug\Diamand 2.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand 2\bin\Debug\Diamand 2.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand 2\obj\Debug\Diamand 2.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Diamand 2\obj\Debug\Diamand 2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Operations between Numbers\bin\Debug\Operations between Numbers.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Operations between Numbers\bin\Debug\Operations between Numbers.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Operations between Numbers\bin\Debug\Operations between Numbers.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Operations between Numbers\obj\Debug\Operations between Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Operations between Numbers\obj\Debug\Operations between Numbers.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Operations between Numbers\obj\Debug\Operations between Numbers.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Operations between Numbers\obj\Debug\Operations between Numbers.csproj.CoreCompileInputs.cache

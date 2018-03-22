@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Pipes in Swimming Pool\bin\Debug\Pipes in Swimming Pool.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Pipes in Swimming Pool\bin\Debug\Pipes in Swimming Pool.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Pipes in Swimming Pool\bin\Debug\Pipes in Swimming Pool.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Pipes in Swimming Pool\obj\Debug\Pipes in Swimming Pool.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Pipes in Swimming Pool\obj\Debug\Pipes in Swimming Pool.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Pipes in Swimming Pool\obj\Debug\Pipes in Swimming Pool.pdb

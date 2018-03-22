@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Fish Market\bin\Debug\Fish Market.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Fish Market\bin\Debug\Fish Market.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Fish Market\bin\Debug\Fish Market.pdb
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Fish Market\obj\Debug\Fish Market.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Fish Market\obj\Debug\Fish Market.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Fish Market\obj\Debug\Fish Market.pdb

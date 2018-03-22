@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Letters Combination\bin\Debug\Letters Combination.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Letters Combination\bin\Debug\Letters Combination.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Letters Combination\bin\Debug\Letters Combination.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Letters Combination\obj\Debug\Letters Combination.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Letters Combination\obj\Debug\Letters Combination.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Letters Combination\obj\Debug\Letters Combination.pdb

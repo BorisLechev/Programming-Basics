@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.05.17\School Camp\bin\Debug\School Camp.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.05.17\School Camp\bin\Debug\School Camp.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.05.17\School Camp\bin\Debug\School Camp.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.05.17\School Camp\obj\Debug\School Camp.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.05.17\School Camp\obj\Debug\School Camp.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.05.17\School Camp\obj\Debug\School Camp.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.05.17\School Camp\obj\Debug\School Camp.csproj.CoreCompileInputs.cache

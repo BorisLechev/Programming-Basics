@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Harvest\bin\Debug\Harvest.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Harvest\bin\Debug\Harvest.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Harvest\bin\Debug\Harvest.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Harvest\obj\Debug\Harvest.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Harvest\obj\Debug\Harvest.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Harvest\obj\Debug\Harvest.pdb

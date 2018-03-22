@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Axe\obj\Debug\Axe.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Axe\bin\Debug\Axe.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Axe\bin\Debug\Axe.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Axe\bin\Debug\Axe.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Axe\obj\Debug\Axe.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Axe\obj\Debug\Axe.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Axe\obj\Debug\Axe.csproj.CoreCompileInputs.cache

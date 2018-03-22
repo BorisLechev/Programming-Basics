@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Smart Lili\obj\Debug\Smart Lili.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Smart Lili\bin\Debug\Smart Lili.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Smart Lili\bin\Debug\Smart Lili.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Smart Lili\bin\Debug\Smart Lili.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Smart Lili\obj\Debug\Smart Lili.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Smart Lili\obj\Debug\Smart Lili.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Smart Lili\obj\Debug\Smart Lili.csproj.CoreCompileInputs.cache

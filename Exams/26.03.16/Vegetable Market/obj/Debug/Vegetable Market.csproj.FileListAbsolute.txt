@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Vegetable Market\bin\Debug\Vegetable Market.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Vegetable Market\bin\Debug\Vegetable Market.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Vegetable Market\bin\Debug\Vegetable Market.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Vegetable Market\obj\Debug\Vegetable Market.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Vegetable Market\obj\Debug\Vegetable Market.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Vegetable Market\obj\Debug\Vegetable Market.pdb

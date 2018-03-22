@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\18.12.16 Exam\Change Tiles\bin\Debug\Change Tiles.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\18.12.16 Exam\Change Tiles\bin\Debug\Change Tiles.exe
+c:\users\boris\documents\visual studio 2017\Projects\18.12.16 Exam\Change Tiles\bin\Debug\Change Tiles.pdb
+c:\users\boris\documents\visual studio 2017\Projects\18.12.16 Exam\Change Tiles\obj\Debug\Change Tiles.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\18.12.16 Exam\Change Tiles\obj\Debug\Change Tiles.exe
+c:\users\boris\documents\visual studio 2017\Projects\18.12.16 Exam\Change Tiles\obj\Debug\Change Tiles.pdb

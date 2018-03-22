@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Morning\Two Numbers Sum\bin\Debug\Two Numbers Sum.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Morning\Two Numbers Sum\bin\Debug\Two Numbers Sum.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Morning\Two Numbers Sum\bin\Debug\Two Numbers Sum.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Morning\Two Numbers Sum\obj\Debug\Two Numbers Sum.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Morning\Two Numbers Sum\obj\Debug\Two Numbers Sum.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Morning\Two Numbers Sum\obj\Debug\Two Numbers Sum.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Morning\Two Numbers Sum\obj\Debug\Two Numbers Sum.csproj.CoreCompileInputs.cache

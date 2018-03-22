@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Football League\bin\Debug\Football League.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Football League\bin\Debug\Football League.exe
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Football League\bin\Debug\Football League.pdb
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Football League\obj\Debug\Football League.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Football League\obj\Debug\Football League.exe
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Football League\obj\Debug\Football League.pdb

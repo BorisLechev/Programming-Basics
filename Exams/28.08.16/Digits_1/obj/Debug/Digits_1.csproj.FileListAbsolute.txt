@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Digits_1\bin\Debug\Digits_1.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Digits_1\bin\Debug\Digits_1.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Digits_1\bin\Debug\Digits_1.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Digits_1\obj\Debug\Digits_1.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Digits_1\obj\Debug\Digits_1.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Digits_1\obj\Debug\Digits_1.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Digits_1\obj\Debug\Digits_1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Butterfly\bin\Debug\Butterfly.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Butterfly\bin\Debug\Butterfly.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Butterfly\bin\Debug\Butterfly.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Butterfly\obj\Debug\Butterfly.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Butterfly\obj\Debug\Butterfly.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Butterfly\obj\Debug\Butterfly.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Money\bin\Debug\Money.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Money\bin\Debug\Money.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Money\bin\Debug\Money.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Money\obj\Debug\Money.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Money\obj\Debug\Money.pdb

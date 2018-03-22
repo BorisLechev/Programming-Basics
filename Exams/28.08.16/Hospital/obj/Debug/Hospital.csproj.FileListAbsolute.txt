@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Hospital\bin\Debug\Hospital.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Hospital\bin\Debug\Hospital.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Hospital\obj\Debug\Hospital.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\28.08.16\Hospital\obj\Debug\Hospital.pdb

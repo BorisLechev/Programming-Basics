@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Tickets for a Football match\bin\Debug\Tickets for a Football match.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Tickets for a Football match\bin\Debug\Tickets for a Football match.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Tickets for a Football match\bin\Debug\Tickets for a Football match.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Tickets for a Football match\obj\Debug\Tickets for a Football match.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Tickets for a Football match\obj\Debug\Tickets for a Football match.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Tickets for a Football match\obj\Debug\Tickets for a Football match.pdb

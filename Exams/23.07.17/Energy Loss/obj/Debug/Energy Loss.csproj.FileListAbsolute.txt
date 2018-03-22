@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Energy Loss\bin\Debug\Energy Loss.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Energy Loss\bin\Debug\Energy Loss.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Energy Loss\bin\Debug\Energy Loss.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Energy Loss\obj\Debug\Energy Loss.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Energy Loss\obj\Debug\Energy Loss.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Energy Loss\obj\Debug\Energy Loss.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Energy Loss\obj\Debug\Energy Loss.csproj.CoreCompileInputs.cache

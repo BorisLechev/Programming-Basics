@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Evening\Rocket\bin\Debug\Rocket.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Evening\Rocket\bin\Debug\Rocket.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Evening\Rocket\bin\Debug\Rocket.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Evening\Rocket\obj\Debug\Rocket.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Evening\Rocket\obj\Debug\Rocket.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Evening\Rocket\obj\Debug\Rocket.pdb

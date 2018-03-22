@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\IlluminatiLock\bin\Debug\IlluminatiLock.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\IlluminatiLock\bin\Debug\IlluminatiLock.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\IlluminatiLock\bin\Debug\IlluminatiLock.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\IlluminatiLock\obj\Debug\IlluminatiLock.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\IlluminatiLock\obj\Debug\IlluminatiLock.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\IlluminatiLock\obj\Debug\IlluminatiLock.pdb

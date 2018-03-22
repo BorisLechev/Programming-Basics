@@ -1,0 +1,7 @@
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Number Generator\bin\Debug\Number Generator.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Number Generator\bin\Debug\Number Generator.exe
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Number Generator\bin\Debug\Number Generator.pdb
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Number Generator\obj\Debug\Number Generator.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Number Generator\obj\Debug\Number Generator.exe
+c:\users\boris\documents\visual studio 2017\Projects\7.05.17\Number Generator\obj\Debug\Number Generator.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.05.17\Number Generator\obj\Debug\Number Generator.csproj.CoreCompileInputs.cache

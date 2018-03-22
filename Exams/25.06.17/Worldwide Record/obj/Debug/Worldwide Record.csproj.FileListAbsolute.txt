@@ -1,0 +1,7 @@
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Worldwide Record\bin\Debug\Worldwide Record.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Worldwide Record\bin\Debug\Worldwide Record.exe
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Worldwide Record\bin\Debug\Worldwide Record.pdb
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Worldwide Record\obj\Debug\Worldwide Record.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Worldwide Record\obj\Debug\Worldwide Record.exe
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Worldwide Record\obj\Debug\Worldwide Record.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Worldwide Record\obj\Debug\Worldwide Record.csproj.CoreCompileInputs.cache

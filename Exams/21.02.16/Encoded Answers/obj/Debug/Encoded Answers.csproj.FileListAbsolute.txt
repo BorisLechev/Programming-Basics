@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Encoded Answers\obj\Debug\Encoded Answers.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Encoded Answers\bin\Debug\Encoded Answers.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Encoded Answers\bin\Debug\Encoded Answers.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Encoded Answers\bin\Debug\Encoded Answers.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Encoded Answers\obj\Debug\Encoded Answers.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Encoded Answers\obj\Debug\Encoded Answers.pdb

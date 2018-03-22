@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Cup\bin\Debug\Cup.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Cup\bin\Debug\Cup.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Cup\bin\Debug\Cup.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Cup\obj\Debug\Cup.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Cup\obj\Debug\Cup.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Cup\obj\Debug\Cup.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Cup\obj\Debug\Cup.csproj.CoreCompileInputs.cache

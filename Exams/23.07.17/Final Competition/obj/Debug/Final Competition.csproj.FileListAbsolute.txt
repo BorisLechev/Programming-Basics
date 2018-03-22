@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Final Competition\obj\Debug\Final Competition.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Final Competition\obj\Debug\Final Competition.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Final Competition\bin\Debug\Final Competition.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Final Competition\bin\Debug\Final Competition.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Final Competition\bin\Debug\Final Competition.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Final Competition\obj\Debug\Final Competition.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Final Competition\obj\Debug\Final Competition.pdb

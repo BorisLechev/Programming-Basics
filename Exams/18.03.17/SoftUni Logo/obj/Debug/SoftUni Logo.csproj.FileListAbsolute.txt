@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\SoftUni Logo\bin\Debug\SoftUni Logo.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\SoftUni Logo\bin\Debug\SoftUni Logo.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\SoftUni Logo\bin\Debug\SoftUni Logo.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\SoftUni Logo\obj\Debug\SoftUni Logo.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\SoftUni Logo\obj\Debug\SoftUni Logo.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\SoftUni Logo\obj\Debug\SoftUni Logo.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\SoftUni Logo\obj\Debug\SoftUni Logo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Divicing\bin\Debug\Divicing.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Divicing\bin\Debug\Divicing.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Divicing\bin\Debug\Divicing.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Divicing\obj\Debug\Divicing.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Divicing\obj\Debug\Divicing.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Divicing\obj\Debug\Divicing.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Divicing\obj\Debug\Divicing.csproj.CoreCompileInputs.cache

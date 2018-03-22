@@ -1,0 +1,7 @@
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Fruit Cocktails\bin\Debug\Fruit Cocktails.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Fruit Cocktails\bin\Debug\Fruit Cocktails.exe
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Fruit Cocktails\bin\Debug\Fruit Cocktails.pdb
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Fruit Cocktails\obj\Debug\Fruit Cocktails.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Fruit Cocktails\obj\Debug\Fruit Cocktails.exe
+c:\users\boris\documents\visual studio 2017\Projects\25.06.17\Fruit Cocktails\obj\Debug\Fruit Cocktails.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Fruit Cocktails\obj\Debug\Fruit Cocktails.csproj.CoreCompileInputs.cache

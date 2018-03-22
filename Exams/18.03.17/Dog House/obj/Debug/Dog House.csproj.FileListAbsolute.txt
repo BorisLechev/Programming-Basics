@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Dog House\bin\Debug\Dog House.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Dog House\bin\Debug\Dog House.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Dog House\bin\Debug\Dog House.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Dog House\obj\Debug\Dog House.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Dog House\obj\Debug\Dog House.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Dog House\obj\Debug\Dog House.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Dog House\obj\Debug\Dog House.csproj.CoreCompileInputs.cache

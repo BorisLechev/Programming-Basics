@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Flower shop\bin\Debug\Flower shop.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Flower shop\bin\Debug\Flower shop.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Flower shop\bin\Debug\Flower shop.pdb
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Flower shop\obj\Debug\Flower shop.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Flower shop\obj\Debug\Flower shop.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Evening\Flower shop\obj\Debug\Flower shop.csprojResolveAssemblyReference.cache

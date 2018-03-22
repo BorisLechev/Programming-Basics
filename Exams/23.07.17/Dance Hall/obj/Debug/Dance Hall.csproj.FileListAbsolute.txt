@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Dance Hall\bin\Debug\Dance Hall.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Dance Hall\bin\Debug\Dance Hall.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Dance Hall\bin\Debug\Dance Hall.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Dance Hall\obj\Debug\Dance Hall.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Dance Hall\obj\Debug\Dance Hall.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Dance Hall\obj\Debug\Dance Hall.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Dance Hall\obj\Debug\Dance Hall.pdb

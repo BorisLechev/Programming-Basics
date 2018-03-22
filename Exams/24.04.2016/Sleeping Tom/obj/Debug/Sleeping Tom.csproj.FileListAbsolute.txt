@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Sleeping Tom\bin\Debug\Sleeping Tom.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Sleeping Tom\bin\Debug\Sleeping Tom.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Sleeping Tom\bin\Debug\Sleeping Tom.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Sleeping Tom\obj\Debug\Sleeping Tom.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Sleeping Tom\obj\Debug\Sleeping Tom.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Sleeping Tom\obj\Debug\Sleeping Tom.pdb

@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Control Number\obj\Debug\Control Number.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Control Number\bin\Debug\Control Number.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Control Number\bin\Debug\Control Number.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Control Number\bin\Debug\Control Number.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Control Number\obj\Debug\Control Number.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Control Number\obj\Debug\Control Number.pdb

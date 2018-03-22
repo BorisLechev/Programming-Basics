@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Snowflake\bin\Debug\Snowflake.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Snowflake\bin\Debug\Snowflake.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Snowflake\bin\Debug\Snowflake.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Snowflake\obj\Debug\Snowflake.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Snowflake\obj\Debug\Snowflake.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Snowflake\obj\Debug\Snowflake.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Snowflake\obj\Debug\Snowflake.pdb
