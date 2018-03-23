@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Coursework1.cpp
+c:\users\boris\documents\projects\c++\second semester\courseworks\courseworks\coursework1\coursework1.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Coursework1.vcxproj -> C:\Users\Boris\Documents\Projects\C++\second semester\Courseworks\Courseworks\Debug\Coursework1.exe

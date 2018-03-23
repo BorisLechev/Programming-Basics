@@ -1,0 +1,5 @@
+﻿  CourseworkThree.cpp
+c:\users\boris\documents\projects\c++\second semester\courseworks\courseworks\courseworkthree\courseworkthree.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\boris\documents\projects\c++\second semester\courseworks\courseworks\courseworkthree\courseworkthree.cpp(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\boris\documents\projects\c++\second semester\courseworks\courseworks\courseworkthree\courseworkthree.cpp(102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CourseworkThree.vcxproj -> C:\Users\Boris\Documents\Projects\C++\second semester\Courseworks\Courseworks\Debug\CourseworkThree.exe

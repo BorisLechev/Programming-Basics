@@ -1,0 +1,4 @@
+﻿  courseworkTwo.cpp
+c:\users\boris\documents\projects\c++\second semester\courseworks\courseworks\courseworktwo\courseworktwo.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\boris\documents\projects\c++\second semester\courseworks\courseworks\courseworktwo\courseworktwo.cpp(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  courseworkTwo.vcxproj -> C:\Users\Boris\Documents\Projects\C++\second semester\Courseworks\Courseworks\Debug\courseworkTwo.exe
