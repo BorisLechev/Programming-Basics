@@ -8,7 +8,7 @@ namespace Draw_Fort
 {
     class Program
     {
-        static void Main(string[] args) 
+        static void Main(string[] args) //!!!!!!!!!!!!!
         {
             var n = int.Parse(Console.ReadLine());
             var width = n * 2;

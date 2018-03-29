@@ -8,7 +8,7 @@ namespace IlluminatiLock
 {
     class Program
     {
-        static void Main(string[] args) 
+        static void Main(string[] args) // !!!!!!!!!!!!
         {
             var n = int.Parse(Console.ReadLine());
             Console.WriteLine("{0}{1}{0}", new string('.', n), new string('#', n));

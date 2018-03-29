@@ -8,7 +8,7 @@ namespace Stupid_Password_Generator
 {
     class Program
     {
-        static void Main(string[] args) 
+        static void Main(string[] args) // !!!!!!!!
         {
             var n = int.Parse(Console.ReadLine());
             var l = int.Parse(Console.ReadLine());
