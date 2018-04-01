@@ -1,4 +1,0 @@
-10
-mall.Enter
-dlm
-mall.Exit
