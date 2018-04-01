@@ -1,4 +1,0 @@
-110
-mall.Enter
-d
-mall.Exit
