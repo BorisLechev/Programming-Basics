@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Draw Fort\obj\Debug\Draw Fort.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Draw Fort\bin\Debug\Draw Fort.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Draw Fort\bin\Debug\Draw Fort.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Draw Fort\bin\Debug\Draw Fort.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Draw Fort\obj\Debug\Draw Fort.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Draw Fort\obj\Debug\Draw Fort.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Draw Fort\obj\Debug\Draw Fort.csproj.CoreCompileInputs.cache

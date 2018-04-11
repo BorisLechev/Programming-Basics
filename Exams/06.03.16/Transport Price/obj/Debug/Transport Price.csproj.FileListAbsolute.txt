@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Transport Price\bin\Debug\Transport Price.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Transport Price\bin\Debug\Transport Price.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Transport Price\bin\Debug\Transport Price.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Transport Price\obj\Debug\Transport Price.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Transport Price\obj\Debug\Transport Price.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Transport Price\obj\Debug\Transport Price.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Transport Price\obj\Debug\Transport Price.csproj.CoreCompileInputs.cache

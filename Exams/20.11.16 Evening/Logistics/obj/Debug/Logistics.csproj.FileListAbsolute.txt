@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Logistics\bin\Debug\Logistics.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Logistics\bin\Debug\Logistics.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Logistics\bin\Debug\Logistics.pdb
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Logistics\obj\Debug\Logistics.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Logistics\obj\Debug\Logistics.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Logistics\obj\Debug\Logistics.pdb

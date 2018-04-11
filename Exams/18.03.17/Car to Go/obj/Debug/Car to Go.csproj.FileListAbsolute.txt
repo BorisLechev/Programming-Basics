@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Car to Go\bin\Debug\Car to Go.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Car to Go\bin\Debug\Car to Go.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Car to Go\bin\Debug\Car to Go.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Car to Go\obj\Debug\Car to Go.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Car to Go\obj\Debug\Car to Go.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Car to Go\obj\Debug\Car to Go.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Car to Go\obj\Debug\Car to Go.csproj.CoreCompileInputs.cache

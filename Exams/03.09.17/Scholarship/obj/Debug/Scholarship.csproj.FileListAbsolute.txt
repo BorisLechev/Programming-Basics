@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Scholarship\bin\Debug\Scholarship.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Scholarship\bin\Debug\Scholarship.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Scholarship\bin\Debug\Scholarship.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Scholarship\obj\Debug\Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Scholarship\obj\Debug\Scholarship.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Scholarship\obj\Debug\Scholarship.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Scholarship\obj\Debug\Scholarship.csprojResolveAssemblyReference.cache

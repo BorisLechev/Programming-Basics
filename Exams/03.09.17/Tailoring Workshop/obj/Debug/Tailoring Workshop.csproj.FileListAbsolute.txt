@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Tailoring Workshop\bin\Debug\Tailoring Workshop.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Tailoring Workshop\bin\Debug\Tailoring Workshop.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Tailoring Workshop\bin\Debug\Tailoring Workshop.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Tailoring Workshop\obj\Debug\Tailoring Workshop.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Tailoring Workshop\obj\Debug\Tailoring Workshop.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Tailoring Workshop\obj\Debug\Tailoring Workshop.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Tailoring Workshop\obj\Debug\Tailoring Workshop.pdb

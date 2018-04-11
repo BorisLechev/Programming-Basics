@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Magic Numbers\bin\Debug\Magic Numbers.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Magic Numbers\bin\Debug\Magic Numbers.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Magic Numbers\bin\Debug\Magic Numbers.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Magic Numbers\obj\Debug\Magic Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Magic Numbers\obj\Debug\Magic Numbers.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Magic Numbers\obj\Debug\Magic Numbers.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\26.03.16\Magic Numbers\obj\Debug\Magic Numbers.csproj.CoreCompileInputs.cache

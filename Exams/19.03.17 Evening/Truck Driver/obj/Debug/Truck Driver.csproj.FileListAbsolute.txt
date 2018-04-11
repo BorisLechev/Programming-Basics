@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Truck Driver\bin\Debug\Truck Driver.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Truck Driver\bin\Debug\Truck Driver.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Truck Driver\bin\Debug\Truck Driver.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Truck Driver\obj\Debug\Truck Driver.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Truck Driver\obj\Debug\Truck Driver.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Truck Driver\obj\Debug\Truck Driver.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Truck Driver\obj\Debug\Truck Driver.csproj.CoreCompileInputs.cache

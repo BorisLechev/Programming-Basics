@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Money Award\bin\Debug\Money Award.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Money Award\bin\Debug\Money Award.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Money Award\bin\Debug\Money Award.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Money Award\obj\Debug\Money Award.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Money Award\obj\Debug\Money Award.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Money Award\obj\Debug\Money Award.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Money Award\obj\Debug\Money Award.csproj.CoreCompileInputs.cache

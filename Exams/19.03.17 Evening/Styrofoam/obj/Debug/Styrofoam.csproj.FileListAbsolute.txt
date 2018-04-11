@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Styrofoam\bin\Debug\Styrofoam.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Styrofoam\bin\Debug\Styrofoam.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Styrofoam\bin\Debug\Styrofoam.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Styrofoam\obj\Debug\Styrofoam.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Styrofoam\obj\Debug\Styrofoam.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Styrofoam\obj\Debug\Styrofoam.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Styrofoam\obj\Debug\Styrofoam.csproj.CoreCompileInputs.cache

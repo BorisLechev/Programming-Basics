@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Stop Number\bin\Debug\Stop Number.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Stop Number\bin\Debug\Stop Number.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Stop Number\bin\Debug\Stop Number.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Stop Number\obj\Debug\Stop Number.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Stop Number\obj\Debug\Stop Number.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\7.07.16\Stop Number\obj\Debug\Stop Number.pdb

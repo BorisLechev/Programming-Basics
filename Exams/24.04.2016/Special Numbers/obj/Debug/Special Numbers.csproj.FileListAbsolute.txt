@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Special Numbers\bin\Debug\Special Numbers.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Special Numbers\bin\Debug\Special Numbers.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Special Numbers\bin\Debug\Special Numbers.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Special Numbers\obj\Debug\Special Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Special Numbers\obj\Debug\Special Numbers.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Special Numbers\obj\Debug\Special Numbers.pdb

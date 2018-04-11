@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Photo Pictures\bin\Debug\Photo Pictures.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Photo Pictures\bin\Debug\Photo Pictures.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Photo Pictures\bin\Debug\Photo Pictures.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Photo Pictures\obj\Debug\Photo Pictures.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Photo Pictures\obj\Debug\Photo Pictures.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Photo Pictures\obj\Debug\Photo Pictures.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\03.09.17\Photo Pictures\obj\Debug\Photo Pictures.pdb

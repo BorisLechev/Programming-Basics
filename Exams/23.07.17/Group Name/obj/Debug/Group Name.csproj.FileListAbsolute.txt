@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Group Name\bin\Debug\Group Name.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Group Name\bin\Debug\Group Name.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Group Name\bin\Debug\Group Name.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Group Name\obj\Debug\Group Name.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Group Name\obj\Debug\Group Name.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Group Name\obj\Debug\Group Name.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\23.07.17\Group Name\obj\Debug\Group Name.csproj.CoreCompileInputs.cache

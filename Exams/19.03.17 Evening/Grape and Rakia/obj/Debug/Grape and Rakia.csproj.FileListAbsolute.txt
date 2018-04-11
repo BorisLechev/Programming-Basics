@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Grape and Rakia\bin\Debug\Grape and Rakia.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Grape and Rakia\bin\Debug\Grape and Rakia.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Grape and Rakia\bin\Debug\Grape and Rakia.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Grape and Rakia\obj\Debug\Grape and Rakia.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Grape and Rakia\obj\Debug\Grape and Rakia.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Grape and Rakia\obj\Debug\Grape and Rakia.pdb

@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Pets\bin\Debug\Pets.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Pets\bin\Debug\Pets.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Pets\bin\Debug\Pets.pdb
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Pets\obj\Debug\Pets.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Pets\obj\Debug\Pets.pdb

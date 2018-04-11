@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Triangle\bin\Debug\Triangle.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Triangle\obj\Debug\Triangle.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Triangle\obj\Debug\Triangle.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache

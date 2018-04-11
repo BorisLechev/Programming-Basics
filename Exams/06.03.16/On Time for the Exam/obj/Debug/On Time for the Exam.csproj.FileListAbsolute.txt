@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\On Time for the Exam\bin\Debug\On Time for the Exam.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\On Time for the Exam\bin\Debug\On Time for the Exam.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\On Time for the Exam\bin\Debug\On Time for the Exam.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\On Time for the Exam\obj\Debug\On Time for the Exam.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\On Time for the Exam\obj\Debug\On Time for the Exam.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\On Time for the Exam\obj\Debug\On Time for the Exam.pdb

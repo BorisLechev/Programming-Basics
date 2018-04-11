@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Vacation\bin\Debug\Vacation.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Vacation\bin\Debug\Vacation.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Vacation\bin\Debug\Vacation.pdb
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Vacation\obj\Debug\Vacation.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Vacation\obj\Debug\Vacation.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Vacation\obj\Debug\Vacation.pdb

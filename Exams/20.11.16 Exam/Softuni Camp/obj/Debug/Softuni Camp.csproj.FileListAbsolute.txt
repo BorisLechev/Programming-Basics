@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Softuni Camp\bin\Debug\Softuni Camp.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Softuni Camp\bin\Debug\Softuni Camp.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Softuni Camp\bin\Debug\Softuni Camp.pdb
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Softuni Camp\obj\Debug\Softuni Camp.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Softuni Camp\obj\Debug\Softuni Camp.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Softuni Camp\obj\Debug\Softuni Camp.pdb

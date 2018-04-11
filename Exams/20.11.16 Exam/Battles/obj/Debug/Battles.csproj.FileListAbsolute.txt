@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Battles\bin\Debug\Battles.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Battles\bin\Debug\Battles.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Battles\bin\Debug\Battles.pdb
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Battles\obj\Debug\Battles.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Battles\obj\Debug\Battles.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Exam\Battles\obj\Debug\Battles.pdb

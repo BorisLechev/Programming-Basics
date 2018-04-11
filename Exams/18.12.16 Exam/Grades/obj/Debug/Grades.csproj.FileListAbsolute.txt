@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Grades\bin\Debug\Grades.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Grades\bin\Debug\Grades.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Grades\bin\Debug\Grades.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Grades\obj\Debug\Grades.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Grades\obj\Debug\Grades.pdb

@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Sum or umnogenie\bin\Debug\Sum or umnogenie.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Sum or umnogenie\bin\Debug\Sum or umnogenie.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Sum or umnogenie\bin\Debug\Sum or umnogenie.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Sum or umnogenie\obj\Debug\Sum or umnogenie.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Sum or umnogenie\obj\Debug\Sum or umnogenie.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Sum or umnogenie\obj\Debug\Sum or umnogenie.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\25.06.17\Sum or umnogenie\obj\Debug\Sum or umnogenie.csproj.CoreCompileInputs.cache

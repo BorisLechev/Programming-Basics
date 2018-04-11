@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Max Combination\bin\Debug\Max Combination.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Max Combination\bin\Debug\Max Combination.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Max Combination\bin\Debug\Max Combination.pdb
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Max Combination\obj\Debug\Max Combination.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Max Combination\obj\Debug\Max Combination.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\Max Combination\obj\Debug\Max Combination.pdb

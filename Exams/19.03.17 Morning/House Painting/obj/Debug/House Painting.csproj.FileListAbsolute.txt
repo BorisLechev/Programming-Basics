@@ -1,0 +1,7 @@
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\House Painting\bin\Debug\House Painting.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\House Painting\bin\Debug\House Painting.exe
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\House Painting\bin\Debug\House Painting.pdb
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\House Painting\obj\Debug\House Painting.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\House Painting\obj\Debug\House Painting.exe
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\House Painting\obj\Debug\House Painting.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Morning\House Painting\obj\Debug\House Painting.csproj.CoreCompileInputs.cache

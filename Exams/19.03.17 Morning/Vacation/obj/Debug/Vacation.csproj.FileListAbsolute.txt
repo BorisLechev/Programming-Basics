@@ -1,0 +1,7 @@
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\Vacation\bin\Debug\Vacation.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\Vacation\bin\Debug\Vacation.exe
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\Vacation\bin\Debug\Vacation.pdb
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\Vacation\obj\Debug\Vacation.exe
+c:\users\boris\documents\visual studio 2017\Projects\19.03.17 Morning\Vacation\obj\Debug\Vacation.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Morning\Vacation\obj\Debug\Vacation.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Morning\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Exam\Fox 2\bin\Debug\Fox 2.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Exam\Fox 2\bin\Debug\Fox 2.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Exam\Fox 2\bin\Debug\Fox 2.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Exam\Fox 2\obj\Debug\Fox 2.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Exam\Fox 2\obj\Debug\Fox 2.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\20.11.16 Exam\Fox 2\obj\Debug\Fox 2.pdb

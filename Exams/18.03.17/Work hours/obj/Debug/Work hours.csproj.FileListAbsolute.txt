@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Work hours\bin\Debug\Work hours.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Work hours\bin\Debug\Work hours.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Work hours\bin\Debug\Work hours.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Work hours\obj\Debug\Work hours.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Work hours\obj\Debug\Work hours.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Work hours\obj\Debug\Work hours.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.03.17\Work hours\obj\Debug\Work hours.csproj.CoreCompileInputs.cache

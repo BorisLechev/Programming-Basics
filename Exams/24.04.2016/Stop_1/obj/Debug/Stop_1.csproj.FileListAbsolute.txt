@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Stop_1\bin\Debug\Stop_1.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Stop_1\bin\Debug\Stop_1.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Stop_1\bin\Debug\Stop_1.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Stop_1\obj\Debug\Stop_1.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Stop_1\obj\Debug\Stop_1.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\24.04.2016\Stop_1\obj\Debug\Stop_1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Paralelepiped\bin\Debug\Paralelepiped.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Paralelepiped\bin\Debug\Paralelepiped.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Paralelepiped\bin\Debug\Paralelepiped.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Paralelepiped\obj\Debug\Paralelepiped.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Paralelepiped\obj\Debug\Paralelepiped.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\19.03.17 Evening\Paralelepiped\obj\Debug\Paralelepiped.csprojResolveAssemblyReference.cache

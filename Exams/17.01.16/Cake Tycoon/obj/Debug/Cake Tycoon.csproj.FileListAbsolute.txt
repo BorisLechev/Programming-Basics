@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\Cake Tycoon\bin\Debug\Cake Tycoon.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\Cake Tycoon\bin\Debug\Cake Tycoon.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\Cake Tycoon\bin\Debug\Cake Tycoon.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\Cake Tycoon\obj\Debug\Cake Tycoon.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\Cake Tycoon\obj\Debug\Cake Tycoon.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\17.01.16\Cake Tycoon\obj\Debug\Cake Tycoon.pdb

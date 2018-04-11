@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Hungry Garfield\bin\Debug\Hungry Garfield.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Hungry Garfield\bin\Debug\Hungry Garfield.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Hungry Garfield\bin\Debug\Hungry Garfield.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Hungry Garfield\obj\Debug\Hungry Garfield.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Hungry Garfield\obj\Debug\Hungry Garfield.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\21.02.16\Hungry Garfield\obj\Debug\Hungry Garfield.pdb

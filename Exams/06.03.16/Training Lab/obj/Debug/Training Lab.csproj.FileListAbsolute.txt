@@ -1,0 +1,7 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Training Lab\bin\Debug\Training Lab.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Training Lab\bin\Debug\Training Lab.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Training Lab\bin\Debug\Training Lab.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Training Lab\obj\Debug\Training Lab.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Training Lab\obj\Debug\Training Lab.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Training Lab\obj\Debug\Training Lab.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\06.03.16\Training Lab\obj\Debug\Training Lab.csproj.CoreCompileInputs.cache

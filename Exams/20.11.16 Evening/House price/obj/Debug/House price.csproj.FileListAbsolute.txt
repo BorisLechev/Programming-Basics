@@ -1,0 +1,6 @@
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\House price\bin\Debug\House price.exe.config
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\House price\bin\Debug\House price.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\House price\bin\Debug\House price.pdb
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\House price\obj\Debug\House price.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\House price\obj\Debug\House price.exe
+c:\users\boris\documents\visual studio 2017\Projects\20.11.16 Evening\House price\obj\Debug\House price.pdb

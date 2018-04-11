@@ -1,0 +1,6 @@
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Christmas Hat\bin\Debug\Christmas Hat.exe.config
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Christmas Hat\bin\Debug\Christmas Hat.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Christmas Hat\bin\Debug\Christmas Hat.pdb
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Christmas Hat\obj\Debug\Christmas Hat.csprojResolveAssemblyReference.cache
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Christmas Hat\obj\Debug\Christmas Hat.exe
+C:\Users\Boris\Documents\Visual Studio 2017\Projects\18.12.16 Exam\Christmas Hat\obj\Debug\Christmas Hat.pdb
