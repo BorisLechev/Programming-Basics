@@ -24,11 +24,21 @@ bld/
 [Oo]bj/
 [Ll]og/
 
+<<<<<<< HEAD
 # Visual Studio 2015 cache/options directory
+=======
+# Visual Studio 2015/2017 cache/options directory
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
+<<<<<<< HEAD
+=======
+# Visual Studio 2017 auto generated files
+Generated\ Files/
+
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
@@ -42,20 +52,40 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
+<<<<<<< HEAD
+=======
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 # .NET Core
 project.lock.json
 project.fragment.lock.json
 artifacts/
 **/Properties/launchSettings.json
 
+<<<<<<< HEAD
+=======
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 *_i.c
 *_p.c
 *_i.h
 *.ilk
 *.meta
 *.obj
+<<<<<<< HEAD
 *.pch
 *.pdb
+=======
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 *.pgc
 *.pgd
 *.rsp
@@ -93,6 +123,12 @@ ipch/
 *.vspx
 *.sap
 
+<<<<<<< HEAD
+=======
+# Visual Studio Trace Files
+*.e2e
+
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 # TFS 2012 Local Workspace
 $tf/
 
@@ -113,6 +149,13 @@ _TeamCity*
 # DotCover is a Code Coverage Tool
 *.dotCover
 
+<<<<<<< HEAD
+=======
+# AxoCover is a Code Coverage Tool
+.axoCover/*
+!.axoCover/settings.json
+
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 # Visual Studio code coverage results
 *.coverage
 *.coveragexml
@@ -148,7 +191,11 @@ publish/
 # Publish Web Output
 *.[Pp]ublish.xml
 *.azurePubxml
+<<<<<<< HEAD
 # TODO: Comment the next line if you want to checkin your web deploy settings
+=======
+# Note: Comment the next line if you want to checkin your web deploy settings,
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
@@ -161,11 +208,19 @@ PublishScripts/
 # NuGet Packages
 *.nupkg
 # The packages folder can be ignored because of Package Restore
+<<<<<<< HEAD
 **/packages/*
 # except build/, which is used as an MSBuild target.
 !**/packages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/packages/repositories.config
+=======
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 # NuGet v3's project.json files produces more ignorable files
 *.nuget.props
 *.nuget.targets
@@ -183,6 +238,10 @@ AppPackages/
 BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
+<<<<<<< HEAD
+=======
+*.appx
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -201,6 +260,13 @@ ClientBin/
 *.publishsettings
 orleans.codegen.cs
 
+<<<<<<< HEAD
+=======
+# Including strong name files can present a security risk 
+# (https://github.com/github/gitignore/pull/2483#issue-259490424)
+#*.snk
+
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 # Since there are multiple workflows, uncomment next line to ignore bower_components
 # (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
 #bower_components/
@@ -215,6 +281,11 @@ _UpgradeReport_Files/
 Backup*/
 UpgradeLog*.XML
 UpgradeLog*.htm
+<<<<<<< HEAD
+=======
+ServiceFabricBackup/
+*.rptproj.bak
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 
 # SQL Server files
 *.mdf
@@ -225,6 +296,10 @@ UpgradeLog*.htm
 *.rdl.data
 *.bim.layout
 *.bim_*.settings
+<<<<<<< HEAD
+=======
+*.rptproj.rsuser
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 
 # Microsoft Fakes
 FakesAssemblies/
@@ -236,9 +311,12 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
+<<<<<<< HEAD
 # Typescript v1 declaration files
 typings/
 
+=======
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 # Visual Studio 6 build log
 *.plg
 
@@ -278,6 +356,12 @@ __pycache__/
 # tools/**
 # !tools/packages.config
 
+<<<<<<< HEAD
+=======
+# Tabs Studio
+*.tss
+
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
 # Telerik's JustMock configuration file
 *.jmconfig
 
@@ -286,3 +370,21 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+<<<<<<< HEAD
+=======
+
+# OpenCover UI analysis results
+OpenCover/
+
+# Azure Stream Analytics local run output 
+ASALocalRun/
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NVidia Nsight GPU debugger configuration file
+*.nvuser
+
+# MFractors (Xamarin productivity tool) working folder 
+.mfractor/
+>>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
