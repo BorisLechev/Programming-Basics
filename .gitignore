@@ -25,20 +25,30 @@ bld/
 [Ll]og/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Visual Studio 2015 cache/options directory
 =======
 # Visual Studio 2015/2017 cache/options directory
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+# Visual Studio 2015/2017 cache/options directory
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 # Visual Studio 2017 auto generated files
 Generated\ Files/
 
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+# Visual Studio 2017 auto generated files
+Generated\ Files/
+
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
@@ -53,11 +63,17 @@ TestResult.xml
 dlldata.c
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Benchmark Results
 BenchmarkDotNet.Artifacts/
 
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # .NET Core
 project.lock.json
 project.fragment.lock.json
@@ -65,12 +81,18 @@ artifacts/
 **/Properties/launchSettings.json
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # StyleCop
 StyleCopReport.xml
 
 # Files built by Visual Studio
+<<<<<<< HEAD
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 *_i.c
 *_p.c
 *_i.h
@@ -78,14 +100,20 @@ StyleCopReport.xml
 *.meta
 *.obj
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.pch
 *.pdb
 =======
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 *.iobj
 *.pch
 *.pdb
 *.ipdb
+<<<<<<< HEAD
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 *.pgc
 *.pgd
 *.rsp
@@ -124,11 +152,17 @@ ipch/
 *.sap
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Visual Studio Trace Files
 *.e2e
 
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+# Visual Studio Trace Files
+*.e2e
+
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # TFS 2012 Local Workspace
 $tf/
 
@@ -150,12 +184,18 @@ _TeamCity*
 *.dotCover
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # AxoCover is a Code Coverage Tool
 .axoCover/*
 !.axoCover/settings.json
 
+<<<<<<< HEAD
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # Visual Studio code coverage results
 *.coverage
 *.coveragexml
@@ -192,10 +232,14 @@ publish/
 *.[Pp]ublish.xml
 *.azurePubxml
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TODO: Comment the next line if you want to checkin your web deploy settings
 =======
 # Note: Comment the next line if you want to checkin your web deploy settings,
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+# Note: Comment the next line if you want to checkin your web deploy settings,
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
@@ -209,18 +253,24 @@ PublishScripts/
 *.nupkg
 # The packages folder can be ignored because of Package Restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 **/packages/*
 # except build/, which is used as an MSBuild target.
 !**/packages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/packages/repositories.config
 =======
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 **/[Pp]ackages/*
 # except build/, which is used as an MSBuild target.
 !**/[Pp]ackages/build/
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/[Pp]ackages/repositories.config
+<<<<<<< HEAD
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # NuGet v3's project.json files produces more ignorable files
 *.nuget.props
 *.nuget.targets
@@ -239,9 +289,13 @@ BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 *.appx
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+*.appx
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -261,12 +315,18 @@ ClientBin/
 orleans.codegen.cs
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # Including strong name files can present a security risk 
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
 #*.snk
 
+<<<<<<< HEAD
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # Since there are multiple workflows, uncomment next line to ignore bower_components
 # (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
 #bower_components/
@@ -282,10 +342,15 @@ Backup*/
 UpgradeLog*.XML
 UpgradeLog*.htm
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ServiceFabricBackup/
 *.rptproj.bak
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+ServiceFabricBackup/
+*.rptproj.bak
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 
 # SQL Server files
 *.mdf
@@ -297,9 +362,13 @@ ServiceFabricBackup/
 *.bim.layout
 *.bim_*.settings
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 *.rptproj.rsuser
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+*.rptproj.rsuser
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 
 # Microsoft Fakes
 FakesAssemblies/
@@ -312,11 +381,14 @@ FakesAssemblies/
 node_modules/
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Typescript v1 declaration files
 typings/
 
 =======
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # Visual Studio 6 build log
 *.plg
 
@@ -357,11 +429,17 @@ __pycache__/
 # !tools/packages.config
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Tabs Studio
 *.tss
 
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+# Tabs Studio
+*.tss
+
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 # Telerik's JustMock configuration file
 *.jmconfig
 
@@ -371,7 +449,10 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
 
 # OpenCover UI analysis results
 OpenCover/
@@ -387,4 +468,7 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+<<<<<<< HEAD
 >>>>>>> ae924363b65e6cef2f4bd207966628c53504c781
+=======
+>>>>>>> cdc58551ae0274202d8988389a884037bc08bccb
